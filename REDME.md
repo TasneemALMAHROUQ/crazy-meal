@@ -24,5 +24,5 @@ A web app for a chicken restaurant to add and track orders saved in the browser.
 
 - Did you face any difficulty?  
 No
-- Did you face any difficulty?  
+
 
