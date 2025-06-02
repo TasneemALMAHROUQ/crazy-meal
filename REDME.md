@@ -23,6 +23,14 @@ A web app for a chicken restaurant to add and track orders saved in the browser.
 [6]
 
 - Did you face any difficulty?  
+
 No
+
+## Live Demo
+
+You can check out the live project here:
+
+[Project Link on GitHub Pages]([https://yourusername.github.io/your-repo-name/](https://tasneemalmahrouq.github.io/crazy-meal/))
+
 
 
